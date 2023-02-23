@@ -1,6 +1,6 @@
 # STAGE 03 - FORMULARIO II
 
-![preview](./.github/preview.png)
+![preview](./github/preview.png)
 
 ## Tecnologias
 
